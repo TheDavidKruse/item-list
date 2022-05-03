@@ -1,4 +1,4 @@
-{
+﻿{
   "items": [
     {
       "abr": "beer",
@@ -652,7 +652,7 @@
       "abr": "infinitechemreactor",
       "category": "Special",
       "defname": "InfiniteChemreactor",
-      "price": 2500
+      "price": 10000
     },
     {
       "abr": "heater",
@@ -1066,13 +1066,13 @@
       "abr": "synthread",
       "category": "Textiles",
       "defname": "Synthread",
-      "price": 7
+      "price": 12
     },
     {
       "abr": "devilstrand",
       "category": "Textiles",
       "defname": "DevilstrandCloth",
-      "price": 9
+      "price": 12
     },
     {
       "abr": "hyperweave",
